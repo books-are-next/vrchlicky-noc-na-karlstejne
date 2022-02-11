@@ -1,0 +1,372 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Noc na Karlštejně",
+    "identifier": "6c8fc1e2-b669-4adb-b783-92115bf6a57a",
+    "author": "Jaroslav Vrchlický",
+    "language": "cs",
+    "modified": "2022-02-11T12:37:38.175Z",
+    "Sigil version": "0.3.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/pd-88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "PRVNÍ DĚJSTVÍ",
+      "children": [
+        {
+          "title": "1. VÝSTUP",
+          "href": "OEBPS/Text/Section0003.xhtml#heading_id_3"
+        },
+        {
+          "title": "2. VÝSTUP",
+          "href": "OEBPS/Text/Section0004.xhtml"
+        },
+        {
+          "title": "3. VÝSTUP",
+          "href": "OEBPS/Text/Section0006.xhtml"
+        },
+        {
+          "title": "4. VÝSTUP",
+          "href": "OEBPS/Text/Section0007.xhtml"
+        },
+        {
+          "title": "5. VÝSTUP",
+          "href": "OEBPS/Text/Section0008.xhtml"
+        },
+        {
+          "title": "6. výstup",
+          "href": "OEBPS/Text/Section0009.xhtml"
+        },
+        {
+          "title": "7. VÝSTUP",
+          "href": "OEBPS/Text/Section0010.xhtml"
+        },
+        {
+          "title": "8. VÝSTUP",
+          "href": "OEBPS/Text/Section0011.xhtml"
+        },
+        {
+          "title": "9. VÝSTUP",
+          "href": "OEBPS/Text/Section0012.xhtml"
+        },
+        {
+          "title": "10. VÝSTUP",
+          "href": "OEBPS/Text/Section0013.xhtml"
+        },
+        {
+          "title": "11. VÝSTUP",
+          "href": "OEBPS/Text/Section0014.xhtml"
+        },
+        {
+          "title": "12. VÝSTUP",
+          "href": "OEBPS/Text/Section0015.xhtml"
+        },
+        {
+          "title": "13. VÝSTUP",
+          "href": "OEBPS/Text/Section0016.xhtml"
+        },
+        {
+          "title": "14. VÝSTUP",
+          "href": "OEBPS/Text/Section0017.xhtml"
+        }
+      ],
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "title": "DRUHÉ DĚJSTVÍ",
+      "children": [
+        {
+          "title": "1. VÝSTUP",
+          "href": "OEBPS/Text/Section0018.xhtml#heading_id_3"
+        },
+        {
+          "title": "2. VÝSTUP",
+          "href": "OEBPS/Text/Section0019.xhtml"
+        },
+        {
+          "title": "3. VÝSTUP",
+          "href": "OEBPS/Text/Section0020.xhtml"
+        },
+        {
+          "title": "4. VÝSTUP",
+          "href": "OEBPS/Text/Section0021.xhtml"
+        },
+        {
+          "title": "5. VÝSTUP",
+          "href": "OEBPS/Text/Section0022.xhtml"
+        },
+        {
+          "title": "6. VÝSTUP",
+          "href": "OEBPS/Text/Section0023.xhtml"
+        },
+        {
+          "title": "7. VÝSTUP",
+          "href": "OEBPS/Text/Section0024.xhtml"
+        },
+        {
+          "title": "8. VÝSTUP",
+          "href": "OEBPS/Text/Section0025.xhtml"
+        },
+        {
+          "title": "9. VÝSTUP",
+          "href": "OEBPS/Text/Section0026.xhtml"
+        },
+        {
+          "title": "10. VÝSTUP",
+          "href": "OEBPS/Text/Section0027.xhtml"
+        },
+        {
+          "title": "11. VÝSTUP",
+          "href": "OEBPS/Text/Section0028.xhtml"
+        },
+        {
+          "title": "12. VÝSTUP",
+          "href": "OEBPS/Text/Section0029.xhtml"
+        }
+      ],
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "title": "TŘETÍ DĚJSTVÍ",
+      "children": [
+        {
+          "title": "1. VÝSTUP",
+          "href": "OEBPS/Text/Section0030.xhtml#heading_id_3"
+        },
+        {
+          "title": "2. VÝSTUP",
+          "href": "OEBPS/Text/Section0031.xhtml"
+        },
+        {
+          "title": "3. VÝSTUP",
+          "href": "OEBPS/Text/Section0032.xhtml"
+        },
+        {
+          "title": "4. VÝSTUP",
+          "href": "OEBPS/Text/Section0033.xhtml"
+        },
+        {
+          "title": "5. VÝSTUP",
+          "href": "OEBPS/Text/Section0034.xhtml"
+        },
+        {
+          "title": "6. VÝSTUP",
+          "href": "OEBPS/Text/Section0035.xhtml"
+        },
+        {
+          "title": "7. VÝSTUP",
+          "href": "OEBPS/Text/Section0036.xhtml"
+        },
+        {
+          "title": "8. VÝSTUP",
+          "href": "OEBPS/Text/Section0037.xhtml"
+        },
+        {
+          "title": "9. VÝSTUP",
+          "href": "OEBPS/Text/Section0038.xhtml"
+        },
+        {
+          "title": "10. VÝSTUP",
+          "href": "OEBPS/Text/Section0039.xhtml"
+        },
+        {
+          "title": "11. VÝSTUP",
+          "href": "OEBPS/Text/Section0040.xhtml"
+        }
+      ],
+      "href": "OEBPS/Text/Section0030.xhtml"
+    }
+  ]
+}
