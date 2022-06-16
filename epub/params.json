@@ -6,7 +6,9 @@
       "author": "Jaroslav Vrchlický",
       "modified": "2022-02-11T12:37:38.175Z",
       "publisherShort": "mkp",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "contentType": "drama",
+      "edition": "drama"
     },
     "elements": {
       "title": "sgc-1",
